@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-bg{
+    background-color: rgb(37, 35, 35);
+    height: 80%;
+    width: 50%;
+    margin-left: 25%;
+    background-size: cover;
+   
+
+   
+  
+}
